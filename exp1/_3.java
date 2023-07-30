@@ -1,3 +1,9 @@
+/**
+ * experiment 1 (c)
+ * aditya yadav - cmpnb
+ * adityadav1809@student.sfit.ac.in
+ */
+
 import java.io.*;
 
 public class _3 {
@@ -6,6 +12,10 @@ public class _3 {
     BufferedReader b = new BufferedReader(r);
     System.out.printf("enter your name: ");
     String name = b.readLine();
-    System.out.println("your name is " + name);
+    System.out.printf("enter your roll no: ");
+    String rno = b.readLine();
+    System.out.printf("enter your marks: ");
+    String marks = b.readLine();
+    System.out.println("name " + name + "\nroll no: " + rno + "\nmarks: " + marks);
   }
 }
