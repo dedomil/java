@@ -1,5 +1,5 @@
 /**
- * experiment 1 (b)
+ * experiment 2 (b)
  * aditya yadav - cmpnb
  * adityadav1809@student.sfit.ac.in
  */
